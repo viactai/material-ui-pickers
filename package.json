@@ -1,6 +1,7 @@
 {
   "version": "4.0.0-alpha.11",
   "private": true,
+  "name": "viact-date-picker"
   "description": "Material-ui pickers root package",
   "main": "index.js",
   "directories": {
